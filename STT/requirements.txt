@@ -1,0 +1,6 @@
+google-cloud-speech
+google-cloud-storage
+pyaudio
+numpy
+opencv-python-headless
+faiss-cpu==1.7.4
