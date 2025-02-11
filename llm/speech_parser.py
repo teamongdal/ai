@@ -68,7 +68,7 @@ def parse_speech_to_json(speech_text):
     {{
         "features": {{
             "clothing_item": "CATEGORIES 항목 중 하나 (반드시 CATEGORIES 중 하나를 골라야만 함, 없으면 null)",
-            "color": "COLORS 항목 중 하나 (반드시 CATEGORIES 중 하나를 골라야만 함, 없으면 null)",
+            "color": "COLORS 항목 중 하나 (반드시 COLORS 중 하나를 골라야만 함, 없으면 null)",
             "location": "Left, Right 등 위치 (없으면 null)"
         }}
     }}
