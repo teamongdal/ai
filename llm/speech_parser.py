@@ -53,12 +53,12 @@ def parse_speech_to_json(speech_text):
     TV에 등장하는 의상에 대해 간단히 설명하는 문장을 제공할 것입니다. 
     이를 JSON 형식으로 변환해주세요. 
     지시 사항
-    1. 의류 종류(`clothing_item`)는 아래 리스트에서만 선택 가능합니다. (단 반드시 하나의 CATEGORIE를 골라야만 합니다.):
+    1. 의류 종류(`clothing_item`)는 아래 리스트에서만 선택 가능합니다. (단 반드시 하나의 CATEGORIES를 골라야만 합니다.):
     
     가능 항목:
     {CATEGORIES}
     
-    2. 의류 색상(`color`)는 아래 리스트에서만 선택 가능합니다. (단 반드시 하나의 CATEGORIE를 골라야만 합니다.):
+    2. 의류 색상(`color`)는 아래 리스트에서만 선택 가능합니다. (단 반드시 하나의 COLORS를 골라야만 합니다.):
     
     가능 항목:
     {COLORS}
